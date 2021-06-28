@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangMan-1005", "HangMan-1005\HangMan-1005.csproj", "{CDE8A461-7AD3-4CDE-80B0-6C29D08601F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangmanData", "HangmanData\HangmanData.csproj", "{C0B3011F-D2D0-4E66-AB90-C3BA2CE1D5E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CDE8A461-7AD3-4CDE-80B0-6C29D08601F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDE8A461-7AD3-4CDE-80B0-6C29D08601F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDE8A461-7AD3-4CDE-80B0-6C29D08601F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0B3011F-D2D0-4E66-AB90-C3BA2CE1D5E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B3011F-D2D0-4E66-AB90-C3BA2CE1D5E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B3011F-D2D0-4E66-AB90-C3BA2CE1D5E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B3011F-D2D0-4E66-AB90-C3BA2CE1D5E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
